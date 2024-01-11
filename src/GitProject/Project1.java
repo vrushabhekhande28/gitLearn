@@ -7,6 +7,8 @@ public class Project1
 	
 	System.out.println("2nd commit");
 	
+	System.out.println("3rd push");
+	
 	
 }
 }
